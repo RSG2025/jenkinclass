@@ -1,1 +1,1 @@
-print {"This is python project for test jenkin build"}
+print ("This is python project for test jenkin build")
